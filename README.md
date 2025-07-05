@@ -1,7 +1,7 @@
 ![#2](https://img.shields.io/badge/%232-skyblue)
 ![Learning Project](https://img.shields.io/badge/Learning_Project-F4A261?style=flat&logoColor=white)
 ![Beginner](https://img.shields.io/badge/Beginner-A8D5BA?style=flat&logoColor=white)
-[![🔗 Live Preview](https://img.shields.io/badge/🔗_Live_Preview-1f2d5a?style=flat&logoColor=white)](https://bonesmaster88.github.io/gocorona/gocorona/)
+[![🔗 Live Preview](https://img.shields.io/badge/🔗_Live_Preview-1f2d5a?style=flat&logoColor=white)](https://bonesmaster88.github.io/relvice/relvice/)
 
 # 🎓 Relvice
 
