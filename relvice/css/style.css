@@ -1091,7 +1091,7 @@ body.menu-open {
   display: block;
 }
 .item-connect__title {
-  font-size: ren(16);
+  font-size: rem(16);
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: 0.00625rem;
