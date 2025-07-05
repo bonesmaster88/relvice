@@ -1,0 +1,66 @@
+@use "_mixins.scss" as *;
+
+$mainTextColor: #252B42;
+$secondTextColor: #737373;
+$accentGreen: #0D5C63;
+
+.block-text {
+    display: flex;
+    flex-direction: column;
+    row-gap: rem(10);
+    letter-spacing: rem(0.2);
+
+    &__title{
+        font-size: rem(40);
+        font-weight: 700;
+        line-height: 1.428;
+
+        @media (max-width: toEm(500)) {
+            font-size: rem(35);
+         }
+         @media (max-width: toEm(400)) {
+            font-size: rem(30);
+         }
+    }
+
+    &__content{
+        color: $secondTextColor;
+        font-weight: 500;
+        line-height: 1.428;
+
+        @media (max-width: toEm(500)) {
+            font-size: rem(17);
+         }
+    }
+}
+
+.block-text--big {
+    row-gap: rem(35);
+
+    .block-text__title {
+
+        font-size: rem(58);
+        @media (max-width: toEm(500)) {
+           font-size: rem(45);
+        }
+        @media (max-width: toEm(390)) {
+           font-size: rem(40);
+        }
+    }
+
+    .block-text__content{
+        @media (max-width: toEm(500)) {
+            font-size: rem(20);
+         }
+    }
+ }
+
+.block-text--center{
+
+    text-align: center;
+
+    .block-text__content{
+        margin-inline: auto;
+    }
+
+}
