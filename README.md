@@ -2,7 +2,7 @@
 ![Landing](https://img.shields.io/badge/Landing-9DB2BF?style=flat&logoColor=white) 
 ![Learning Project](https://img.shields.io/badge/Learning_Project-F4A261?style=flat&logoColor=white)
 ![Beginner](https://img.shields.io/badge/Beginner-A8D5BA?style=flat&logoColor=white)
-[![🔗 Live Preview](https://img.shields.io/badge/🔗_Live_Preview-1f2d5a?style=flat&logoColor=white)](https://bonesmaster88.github.io/relvice/relvice/)
+[![🔗 Live Preview](https://img.shields.io/badge/🔗_Live_Preview-1f2d5a?style=flat&logoColor=white)](https://svitlanarudova.github.io/relvice/relvice/)
 
 # 🎓 Relvice
 
